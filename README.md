@@ -1,4 +1,4 @@
- HEAD
+
 ## Project title: *Stock Control System*
 
 ## Student name: *Shubham Hariyale*
